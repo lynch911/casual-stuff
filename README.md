@@ -1,1 +1,3 @@
-the first submission
+<font face = "Times" size = 4> This is actually the first blog that I gonna post on the GitHub though it might not be called a real blog. But anyway, it serves as a promise or a bet between me and myself. Since English isn't my first language, using it to record everything in my life could be a quite tough and annoying thing. However, I'll try my best to stick to it and make use of it. Hope I can at least make some improvement here and have fun.
+***
+In fact, I haven't decided yet what I will put on my own space. But considering that GitHub is the gathering place of so many brilliant code and Geeks (in a respect manner). I might also upload some my own work though myself can definitely not be grouped into Geeks. Anyway, I still think the daily records of my life will be the largest part of my work here. I might not be able to update my hut everyday, but I hope and I will make it my daily habbit.
